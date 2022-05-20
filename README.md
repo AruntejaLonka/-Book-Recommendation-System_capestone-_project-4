@@ -2,8 +2,6 @@
 
 A Book Recommendation System which recommends the users a selection of books based on their interests.
 
-Data used for this project was taken from here
-
 # **1. Data Cleaning and Pre-Processing**
 The dataset consists of three tables; Books, Users, and Ratings. Data from all three tables are cleaned and preprocessed separately as defined below briefly:
 
